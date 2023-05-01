@@ -1,0 +1,2 @@
+# DjangoDoc
+Studying the documentation
